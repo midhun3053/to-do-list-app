@@ -23,4 +23,6 @@ A sleek and functional to-do list web application built using HTML, CSS, and Jav
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ad9955c3-2989-43b9-9d0d-980788309df7" />
 
 ## 🔗 Live Demo
-[Click here to view the app](http://127.0.0.1:3000/task3/index.html)
+[Click here to view the app]
+
+(http://127.0.0.1:3000/task3/index.html)
