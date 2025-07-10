@@ -25,4 +25,4 @@ A sleek and functional to-do list web application built using HTML, CSS, and Jav
 ## 🔗 Live Demo
 [Click here to view the app]
 
-(http://127.0.0.1:3000/task3/index.html)
+(https://to-do-list-app-403123.netlify.app/)
